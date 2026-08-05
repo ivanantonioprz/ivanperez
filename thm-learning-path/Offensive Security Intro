@@ -1,9 +1,0 @@
-En este ejercicio se muestran las vulnerabilidades de un sitio web en un ambiente seguro. 
-Uno de los ejercicios es abrir una terminal en KALI LINUX, despues se me pide ingresar el comando **derb** y un enlace de la pagina del banco al que estamos queriendo acceder. 
-Al utilizar el comando derb se me muestra en la terminal dos salidas: una con la dirección de transferencias del banco y otra que muestra una de imagenes del mismo banco.
-Encontramos un panel de admin gracias a esto. 
-Despues en Google añadimos una extension a la dirección de transferencias del banco, el cual nos permite realizar transferencias. 
-Realizamos una transferencia.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://tryhackme.com/room/offensivesecurityintrokKx12?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=69c5b7e7d5b4510089103ea4
-
