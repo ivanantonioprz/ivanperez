@@ -9,7 +9,8 @@ Sobre mí
 Mi carpeta de proyectos y prácticas.
 
 Certificaciones 
-[Técnico en Big Data](./Certificados/TécnicoEnBigData.pdf)
+
+- [Técnico en Big Data](./Certificados/TécnicoEnBigData.pdf)
 
 
 
