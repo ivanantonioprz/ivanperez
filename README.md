@@ -7,6 +7,7 @@ Sobre mí
 - Me interesa redes, hardening de sistemas y pentesting.
 
 [PROYECTOS Y PRACTICAS.](./Proyectos-y-Prácticas)
+
 [TRYHACKME.](./thm-learning-path)
 
 Certificaciones 
