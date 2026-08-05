@@ -6,7 +6,8 @@ Sobre mí
 - Cuento con certificación en Técnico de Big Data. 
 - Me interesa redes, hardening de sistemas y pentesting.
 
-Mi carpeta de proyectos y prácticas.
+[PROYECTOS Y PRACTICAS.](./Proyectos-y-Prácticas)
+[TRYHACKME.](./thm-learning-path)
 
 Certificaciones 
 
