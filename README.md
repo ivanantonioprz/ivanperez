@@ -2,9 +2,16 @@
 Soy Iván Pérez. Estudiante de la Universidad de Sonora. Actualmente cursando el 7mo semestre de Ingeniería en Sistemas de Información. 
 
 Sobre mí
-- Actualmente aprendiendo fundamentos de ofensiva y defensiva. 
+- Actualmente aprendiendo fundamentos de ofensiva. 
 - Cuento con certificación en Técnico de Big Data. 
 - Me interesa redes, hardening de sistemas y pentesting.
+
+Mi carpeta de proyectos y prácticas.
+
+Certificaciones 
+[Técnico en Big Data](./Certificados/TécnicoEnBigData.pdf)
+
+
 
 Herramientas que utilizo comúnmente: 
 
