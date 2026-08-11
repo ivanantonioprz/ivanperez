@@ -10,7 +10,7 @@ Sobre mí
 [PROYECTOS Y PRACTICAS.](./Proyectos-y-Prácticas)
 -------------------------------------------------
 
-[TRYHACKME.](./thm-learning-path)
+[TRYHACKME.](./TryHackMe-Prácticas)
 -
 
 Certificaciones 
